@@ -1,4 +1,4 @@
-# Project 3: Find the Path!
+# Find the Path!
 
 ## Corrections/Clarifications
 
