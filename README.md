@@ -150,12 +150,7 @@ Expected output:
 15     6  43.070010  -89.409450          Quick Trip on Monroe Street
 ```
 
-# Individual Part (25%)
-
-You have to do the remainder of this project on your own.  Do not
-discuss with anybody except 320 staff (mentors, TAs, instructor).
-
-## Part 4: `reveal_secrets` function
+## `reveal_secrets` function
 
 Write a function (remember that functions aren't inside any class) in
 `scrape.py` like the following:
